@@ -1,6 +1,6 @@
 # flutter_ten
 
-A new Flutter project.
+This project demonstrates using webview in flutter.
 
 ## Getting Started
 
